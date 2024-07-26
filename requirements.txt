@@ -1,0 +1,9 @@
+openai
+google-generativeai
+ipython
+tiktoken
+requests
+pandas
+numpy
+matplotlib
+openpyxl
